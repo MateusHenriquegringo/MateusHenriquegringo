@@ -1,6 +1,5 @@
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=henriquemateus2502&unique={true|1|on|yes})
-<img align="right" width="580" src="https://www.bing.com/th/id/OGC.0a88eacc48c79ebcde31f109137a4834?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fef%2fa9%2f39%2fefa9396fe51653bc074f75d2252692d0.gif&ehk=nm3KKE2l8tKycApIZTsrxfbc3i%2fzYIT%2fReKy1CU4sL8%3d" />
+<img align="right" width="600" src="https://www.bing.com/th/id/OGC.0a88eacc48c79ebcde31f109137a4834?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fef%2fa9%2f39%2fefa9396fe51653bc074f75d2252692d0.gif&ehk=nm3KKE2l8tKycApIZTsrxfbc3i%2fzYIT%2fReKy1CU4sL8%3d" />
 
 ##  Welcome to my profile!>
 
@@ -19,3 +18,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusHenriquegringo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MateusHenriquegringo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=henriquemateus2502&unique={true|1|on|yes})
