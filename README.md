@@ -1,6 +1,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=henriquemateus2502&unique={true|1|on|yes})
-<img align="right" width="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c23ced29307801.55ed32805a84f.gif" />
+<img align="right" width="600" src="https://www.bing.com/images/search?view=detailV2&ccid=k9wph%2bsH&id=4A69A9775AF9D302A379359B50D99B6D99C9908F&thid=OIP.k9wph-sHD_45OqEWM1y_uAHaEo&mediaurl=https%3a%2f%2fi.redd.it%2fzt38ggy0kapz.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.93dc2987eb070ffe393aa116335cbfb8%3frik%3dj5DJmW2b2VCbNQ%26pid%3dImgRaw%26r%3d0&exph=600&expw=960&q=+cuphead&simid=608044250150163093&FORM=IRPRST&ck=68501B51857D242FDD7BFE760A472C3E&selectedIndex=14&qft=+filterui%3aphoto-animatedgif" />
 
 ##  Welcome to my profile!>
 
