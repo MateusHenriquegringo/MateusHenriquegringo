@@ -1,5 +1,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=henriquemateus2502&unique={true|1|on|yes})
+<img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c23ced29307801.55ed32805a84f.gif" />
 
 ##  Welcome to my profile!>
 
@@ -18,4 +19,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusHenriquegringo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MateusHenriquegringo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-<img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c23ced29307801.55ed32805a84f.gif" 
