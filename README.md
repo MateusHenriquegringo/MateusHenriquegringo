@@ -1,6 +1,10 @@
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=henriquemateus2502&unique={true|1|on|yes})
+### Spotify Playing 🎧
 
-##  Welcome to my profile!>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/mateushenrique2502/11153360645)
+
+---
+
+##  Welcome to my profile!
 
 <p align="justify"> Hi everyone ! My name is Mateus and i'm Systems Analysis and Development Student. I am passionate about arts, science and technology .<strong> Focused in Frontend </p>
 
