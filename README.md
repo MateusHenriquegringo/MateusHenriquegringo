@@ -1,6 +1,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=henriquemateus2502&unique={true|1|on|yes})
-<img align="right" width="350" src="https://68.media.tumblr.com/0ab3d84a72f792da0dae9fd392fc61b2/tumblr_otg9zb1JEf1tgo74ho1_500.gif" />
+<img align="right" width="350" src="https://cutewallpaper.org/21/pixel-wallpaper-gif/view-page-21.html" />
 
 ##  Welcome to my profile!>
 
