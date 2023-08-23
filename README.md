@@ -1,6 +1,7 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=henriquemateus2502&unique={true|1|on|yes})
 ##  Welcome to my profile!
+<img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c23ced29307801.55ed32805a84f.gif" />
 
 <p align="justify"> Hi everyone ! My name is Mateus and i'm Systems Analysis and Development Student. I am passionate about arts, science and technology .<strong> Focused in Frontend </p>
 
