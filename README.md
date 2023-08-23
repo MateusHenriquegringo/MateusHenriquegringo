@@ -1,6 +1,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=henriquemateus2502&unique={true|1|on|yes})
-<img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c23ced29307801.55ed32805a84f.gif" />
+<img align="right" width="900" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c23ced29307801.55ed32805a84f.gif" />
 
 ##  Welcome to my profile!>
 
