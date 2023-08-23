@@ -1,8 +1,3 @@
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/mateushenrique2502/11153360645)
-
----
 
 ##  Welcome to my profile!
 
