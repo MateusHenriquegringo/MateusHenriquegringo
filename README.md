@@ -12,4 +12,4 @@
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusHenriquegringo&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHenriquegringo&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHenriquegringo&theme=tokyonight&size_weight=0.5&count_weight=1.0&hide=html)
