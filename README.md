@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-henrique-derossi-79a2031a3/)[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/mateushenriquedrs/)
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=aws,java,spring,typescript,angular,linux,postgres,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,java,spring,typescript,angular,gradle,linux,postgres,docker&theme=light)](https://skillicons.dev)
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusHenriquegringo&theme=tokyonight)
