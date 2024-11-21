@@ -1,7 +1,7 @@
 
 ##  Welcome to my profile!
 
-<p align="justify"> Hi everyone ! My name is Mateus and i'm Systems Analysis and Development Student. I am passionate about arts, science and technology .<strong> Focused in FullStack | Currently leraning about Backend </p>
+<p align="justify"> Hi everyone ! My name is Mateus and i'm Systems Analysis and Development Student. I am passionate about games, science and technology .
 
 ### Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-henrique-derossi-79a2031a3/)[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/mateushenriquedrs/)
